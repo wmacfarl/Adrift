@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deadly
+  - WinGame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player Body
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Stars
+    uniqueID: 2502838963
+    locked: 0
+  - name: BackgroundWalls
+    uniqueID: 1140630227
+    locked: 0
+  - name: Walls
+    uniqueID: 2578205277
+    locked: 0
+  - name: BackArm
+    uniqueID: 3814528611
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
